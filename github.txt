@@ -1,0 +1,15 @@
+COMANDOS:
+
+git init
+
+git add .
+
+git commit -m "Montagens Photoshop"
+
+git branch -M main
+
+git remote add origin https://github.com/emillienicole/trabalhoTP.git
+
+git push -u origin main
+
+
